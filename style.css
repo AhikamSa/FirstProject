@@ -1,0 +1,8 @@
+* {
+    box-sizing: border-box;
+}
+.student-owner {
+    border:  1px solid green;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+     font-size: 40px;
+}
